@@ -1,5 +1,4 @@
-# agenciakpax
-Código da minha agência
+# Build Nuxt Frontend
 
 ## Build Setup
 
@@ -22,7 +21,7 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 
 
-# Build Node & Express API
+    # Build Node & Express API
 
 ## Build Setup
 
